@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/frankpatel1/LeetCode/tree/master/0062-unique-paths) |
+| [2485-find-the-pivot-integer](https://github.com/frankpatel1/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/frankpatel1/LeetCode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
