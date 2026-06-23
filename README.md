@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/frankpatel1/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0063-unique-paths-ii](https://github.com/frankpatel1/LeetCode/tree/master/0063-unique-paths-ii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Matrix
@@ -50,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/frankpatel1/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/frankpatel1/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/frankpatel1/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
