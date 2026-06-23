@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/frankpatel1/LeetCode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/frankpatel1/LeetCode/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/frankpatel1/LeetCode/tree/master/0263-ugly-number) |
+| [0728-self-dividing-numbers](https://github.com/frankpatel1/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/frankpatel1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/frankpatel1/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
