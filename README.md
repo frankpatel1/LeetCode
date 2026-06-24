@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/frankpatel1/LeetCode/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/frankpatel1/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/frankpatel1/LeetCode/tree/master/0062-unique-paths) |
+| [0149-max-points-on-a-line](https://github.com/frankpatel1/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/frankpatel1/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/frankpatel1/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/frankpatel1/LeetCode/tree/master/0263-ugly-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/frankpatel1/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/frankpatel1/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
+| [0149-max-points-on-a-line](https://github.com/frankpatel1/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/frankpatel1/LeetCode/tree/master/0204-count-primes) |
 | [0812-largest-triangle-area](https://github.com/frankpatel1/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/frankpatel1/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/frankpatel1/LeetCode/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/frankpatel1/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/frankpatel1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## String
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/frankpatel1/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/frankpatel1/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/frankpatel1/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
