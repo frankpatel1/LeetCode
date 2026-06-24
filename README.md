@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/frankpatel1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/frankpatel1/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/frankpatel1/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [2523-closest-prime-numbers-in-range](https://github.com/frankpatel1/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/frankpatel1/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
@@ -94,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/frankpatel1/LeetCode/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/frankpatel1/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
