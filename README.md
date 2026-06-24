@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/frankpatel1/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/frankpatel1/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/frankpatel1/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/frankpatel1/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/frankpatel1/LeetCode/tree/master/0204-count-primes) |
 | [0812-largest-triangle-area](https://github.com/frankpatel1/LeetCode/tree/master/0812-largest-triangle-area) |
@@ -119,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/frankpatel1/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/frankpatel1/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
