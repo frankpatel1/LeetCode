@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/frankpatel1/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/frankpatel1/LeetCode/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/frankpatel1/LeetCode/tree/master/0263-ugly-number) |
+| [0371-sum-of-two-integers](https://github.com/frankpatel1/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0728-self-dividing-numbers](https://github.com/frankpatel1/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/frankpatel1/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/frankpatel1/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -122,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/frankpatel1/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/frankpatel1/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/frankpatel1/LeetCode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
