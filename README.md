@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/frankpatel1/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/frankpatel1/LeetCode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/frankpatel1/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0883-projection-area-of-3d-shapes](https://github.com/frankpatel1/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/frankpatel1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/frankpatel1/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/frankpatel1/LeetCode/tree/master/2485-find-the-pivot-integer) |
@@ -41,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/frankpatel1/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/frankpatel1/LeetCode/tree/master/0204-count-primes) |
+| [0883-projection-area-of-3d-shapes](https://github.com/frankpatel1/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/frankpatel1/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0883-projection-area-of-3d-shapes](https://github.com/frankpatel1/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Sorting
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/frankpatel1/LeetCode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/frankpatel1/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/frankpatel1/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
