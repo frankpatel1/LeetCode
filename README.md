@@ -112,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/frankpatel1/LeetCode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/frankpatel1/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/frankpatel1/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/frankpatel1/LeetCode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/frankpatel1/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
