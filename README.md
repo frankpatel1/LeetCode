@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/frankpatel1/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/frankpatel1/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/frankpatel1/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/frankpatel1/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Combinatorics
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/frankpatel1/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/frankpatel1/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/frankpatel1/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Matrix
 |  |
