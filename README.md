@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/frankpatel1/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/frankpatel1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/frankpatel1/LeetCode/tree/master/0068-text-justification) |
+| [0084-largest-rectangle-in-histogram](https://github.com/frankpatel1/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/frankpatel1/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/frankpatel1/LeetCode/tree/master/0137-single-number-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/frankpatel1/LeetCode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/frankpatel1/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Linked List
 |  |
 | ------- |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/frankpatel1/LeetCode/tree/master/0076-minimum-window-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/frankpatel1/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
