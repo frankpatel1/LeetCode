@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/frankpatel1/LeetCode/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/frankpatel1/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0149-max-points-on-a-line](https://github.com/frankpatel1/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/frankpatel1/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/frankpatel1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/frankpatel1/LeetCode/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/frankpatel1/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/frankpatel1/LeetCode/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/frankpatel1/LeetCode/tree/master/0076-minimum-window-substring) |
 ## Trie
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/frankpatel1/LeetCode/tree/master/0068-text-justification) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/frankpatel1/LeetCode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
