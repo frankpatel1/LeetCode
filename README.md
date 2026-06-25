@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/frankpatel1/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/frankpatel1/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/frankpatel1/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/frankpatel1/LeetCode/tree/master/0068-text-justification) |
 | [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/frankpatel1/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/frankpatel1/LeetCode/tree/master/0137-single-number-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/frankpatel1/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/frankpatel1/LeetCode/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/frankpatel1/LeetCode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/frankpatel1/LeetCode/tree/master/0068-text-justification) |
 ## Trie
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/frankpatel1/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/frankpatel1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/frankpatel1/LeetCode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
