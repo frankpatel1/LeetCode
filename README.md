@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/frankpatel1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/frankpatel1/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/frankpatel1/LeetCode/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/frankpatel1/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0233-number-of-digit-one](https://github.com/frankpatel1/LeetCode/tree/master/0233-number-of-digit-one) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/frankpatel1/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/frankpatel1/LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/frankpatel1/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/frankpatel1/LeetCode/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/frankpatel1/LeetCode/tree/master/0115-distinct-subsequences) |
 ## Trie
 |  |
 | ------- |
