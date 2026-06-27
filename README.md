@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/frankpatel1/LeetCode/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/frankpatel1/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/frankpatel1/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/frankpatel1/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/frankpatel1/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/frankpatel1/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/frankpatel1/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/frankpatel1/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/frankpatel1/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/frankpatel1/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/frankpatel1/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Linked List
