@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/frankpatel1/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/frankpatel1/LeetCode/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/frankpatel1/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/frankpatel1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/frankpatel1/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/frankpatel1/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/frankpatel1/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/frankpatel1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/frankpatel1/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/frankpatel1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/frankpatel1/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/frankpatel1/LeetCode/tree/master/0204-count-primes) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/frankpatel1/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Number Theory
 |  |
 | ------- |
