@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/frankpatel1/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/frankpatel1/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/frankpatel1/LeetCode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/frankpatel1/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/frankpatel1/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0233-number-of-digit-one](https://github.com/frankpatel1/LeetCode/tree/master/0233-number-of-digit-one) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/frankpatel1/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/frankpatel1/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/frankpatel1/LeetCode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/frankpatel1/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/frankpatel1/LeetCode/tree/master/0115-distinct-subsequences) |
 ## Trie
 |  |
