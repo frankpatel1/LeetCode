@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/frankpatel1/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/frankpatel1/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/frankpatel1/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/frankpatel1/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/frankpatel1/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/frankpatel1/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/frankpatel1/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/frankpatel1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/frankpatel1/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/frankpatel1/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/frankpatel1/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0883-projection-area-of-3d-shapes](https://github.com/frankpatel1/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Sorting
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/frankpatel1/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/frankpatel1/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/frankpatel1/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/frankpatel1/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/frankpatel1/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/frankpatel1/LeetCode/tree/master/0115-distinct-subsequences) |
 ## Trie
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/frankpatel1/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/frankpatel1/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/frankpatel1/LeetCode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/frankpatel1/LeetCode/tree/master/0089-gray-code) |
 ## Segment Tree
 |  |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/frankpatel1/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/frankpatel1/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
