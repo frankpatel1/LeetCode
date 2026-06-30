@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/frankpatel1/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/frankpatel1/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/frankpatel1/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/frankpatel1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/frankpatel1/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/frankpatel1/LeetCode/tree/master/0100-same-tree) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/frankpatel1/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 ## Greedy
 |  |
 | ------- |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/frankpatel1/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/frankpatel1/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 <!---LeetCode Topics End-->
