@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0915-partition-array-into-disjoint-intervals](https://github.com/frankpatel1/LeetCode/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/frankpatel1/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/frankpatel1/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/frankpatel1/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/frankpatel1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/frankpatel1/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/frankpatel1/LeetCode/tree/master/0075-sort-colors) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/frankpatel1/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/frankpatel1/LeetCode/tree/master/0204-count-primes) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/frankpatel1/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/frankpatel1/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Number Theory
 |  |
