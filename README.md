@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/frankpatel1/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/frankpatel1/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3011-find-if-array-can-be-sorted](https://github.com/frankpatel1/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/frankpatel1/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/frankpatel1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/frankpatel1/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/frankpatel1/LeetCode/tree/master/0075-sort-colors) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/frankpatel1/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3011-find-if-array-can-be-sorted](https://github.com/frankpatel1/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/frankpatel1/LeetCode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/frankpatel1/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/frankpatel1/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [3011-find-if-array-can-be-sorted](https://github.com/frankpatel1/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
 ## Backtracking
 |  |
 | ------- |
