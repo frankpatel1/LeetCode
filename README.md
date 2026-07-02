@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/frankpatel1/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/frankpatel1/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/frankpatel1/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3637-trionic-array-i](https://github.com/frankpatel1/LeetCode/tree/master/3637-trionic-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/frankpatel1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/frankpatel1/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
