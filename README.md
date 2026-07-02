@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/frankpatel1/LeetCode/tree/master/0233-number-of-digit-one) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/frankpatel1/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3638-maximum-balanced-shipments](https://github.com/frankpatel1/LeetCode/tree/master/3638-maximum-balanced-shipments) |
+| [3640-trionic-array-ii](https://github.com/frankpatel1/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/frankpatel1/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/frankpatel1/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Combinatorics
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/frankpatel1/LeetCode/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/frankpatel1/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3639-minimum-time-to-activate-string](https://github.com/frankpatel1/LeetCode/tree/master/3639-minimum-time-to-activate-string) |
+| [3640-trionic-array-ii](https://github.com/frankpatel1/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/frankpatel1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/frankpatel1/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
