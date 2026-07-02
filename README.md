@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0233-number-of-digit-one](https://github.com/frankpatel1/LeetCode/tree/master/0233-number-of-digit-one) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/frankpatel1/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [3638-maximum-balanced-shipments](https://github.com/frankpatel1/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/frankpatel1/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/frankpatel1/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Combinatorics
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/frankpatel1/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/frankpatel1/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3637-trionic-array-i](https://github.com/frankpatel1/LeetCode/tree/master/3637-trionic-array-i) |
+| [3638-maximum-balanced-shipments](https://github.com/frankpatel1/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/frankpatel1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/frankpatel1/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/frankpatel1/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/frankpatel1/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/frankpatel1/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [3638-maximum-balanced-shipments](https://github.com/frankpatel1/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 ## Linked List
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/frankpatel1/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/frankpatel1/LeetCode/tree/master/0085-maximal-rectangle) |
+| [3638-maximum-balanced-shipments](https://github.com/frankpatel1/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3012-minimize-length-of-array-using-operations](https://github.com/frankpatel1/LeetCode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frankpatel1/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/frankpatel1/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3638-maximum-balanced-shipments](https://github.com/frankpatel1/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
