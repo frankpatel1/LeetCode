@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/frankpatel1/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/frankpatel1/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/frankpatel1/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/frankpatel1/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/frankpatel1/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/frankpatel1/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/frankpatel1/LeetCode/tree/master/0086-partition-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/frankpatel1/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
