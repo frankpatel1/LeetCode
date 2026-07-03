@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0233-number-of-digit-one](https://github.com/frankpatel1/LeetCode/tree/master/0233-number-of-digit-one) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/frankpatel1/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [3620-network-recovery-pathways](https://github.com/frankpatel1/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3638-maximum-balanced-shipments](https://github.com/frankpatel1/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3640-trionic-array-ii](https://github.com/frankpatel1/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/frankpatel1/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/frankpatel1/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/frankpatel1/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/frankpatel1/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/frankpatel1/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/frankpatel1/LeetCode/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/frankpatel1/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 | [3639-minimum-time-to-activate-string](https://github.com/frankpatel1/LeetCode/tree/master/3639-minimum-time-to-activate-string) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/frankpatel1/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/frankpatel1/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [3620-network-recovery-pathways](https://github.com/frankpatel1/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3639-minimum-time-to-activate-string](https://github.com/frankpatel1/LeetCode/tree/master/3639-minimum-time-to-activate-string) |
 ## Depth-First Search
 |  |
@@ -330,13 +333,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/frankpatel1/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/frankpatel1/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/frankpatel1/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
 | ------- |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/frankpatel1/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/frankpatel1/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/frankpatel1/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/frankpatel1/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/frankpatel1/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/frankpatel1/LeetCode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
