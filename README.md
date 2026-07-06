@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/frankpatel1/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/frankpatel1/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/frankpatel1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0233-number-of-digit-one](https://github.com/frankpatel1/LeetCode/tree/master/0233-number-of-digit-one) |
 | [1301-number-of-paths-with-max-score](https://github.com/frankpatel1/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/frankpatel1/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/frankpatel1/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/frankpatel1/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/frankpatel1/LeetCode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/frankpatel1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/frankpatel1/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/frankpatel1/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Tree
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/frankpatel1/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/frankpatel1/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/frankpatel1/LeetCode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/frankpatel1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/frankpatel1/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/frankpatel1/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/frankpatel1/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/frankpatel1/LeetCode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/frankpatel1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/frankpatel1/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
 |  |
