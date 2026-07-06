@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/frankpatel1/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/frankpatel1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/frankpatel1/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0233-number-of-digit-one](https://github.com/frankpatel1/LeetCode/tree/master/0233-number-of-digit-one) |
 | [1301-number-of-paths-with-max-score](https://github.com/frankpatel1/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/frankpatel1/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/frankpatel1/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/frankpatel1/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/frankpatel1/LeetCode/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/frankpatel1/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/frankpatel1/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/frankpatel1/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/frankpatel1/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
