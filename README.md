@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/frankpatel1/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0233-number-of-digit-one](https://github.com/frankpatel1/LeetCode/tree/master/0233-number-of-digit-one) |
+| [1301-number-of-paths-with-max-score](https://github.com/frankpatel1/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/frankpatel1/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [3620-network-recovery-pathways](https://github.com/frankpatel1/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3638-maximum-balanced-shipments](https://github.com/frankpatel1/LeetCode/tree/master/3638-maximum-balanced-shipments) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/frankpatel1/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/frankpatel1/LeetCode/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1288-remove-covered-intervals](https://github.com/frankpatel1/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1301-number-of-paths-with-max-score](https://github.com/frankpatel1/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/frankpatel1/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/frankpatel1/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/frankpatel1/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/frankpatel1/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0883-projection-area-of-3d-shapes](https://github.com/frankpatel1/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
+| [1301-number-of-paths-with-max-score](https://github.com/frankpatel1/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/frankpatel1/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sorting
 |  |
