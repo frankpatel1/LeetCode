@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/frankpatel1/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/frankpatel1/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frankpatel1/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/frankpatel1/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/frankpatel1/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/frankpatel1/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/frankpatel1/LeetCode/tree/master/0075-sort-colors) |
 | [1288-remove-covered-intervals](https://github.com/frankpatel1/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frankpatel1/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/frankpatel1/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/frankpatel1/LeetCode/tree/master/3011-find-if-array-can-be-sorted) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/frankpatel1/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frankpatel1/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/frankpatel1/LeetCode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frankpatel1/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/frankpatel1/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
