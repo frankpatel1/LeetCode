@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/frankpatel1/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/frankpatel1/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/frankpatel1/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/frankpatel1/LeetCode/tree/master/0140-word-break-ii) |
 | [0233-number-of-digit-one](https://github.com/frankpatel1/LeetCode/tree/master/0233-number-of-digit-one) |
 | [1301-number-of-paths-with-max-score](https://github.com/frankpatel1/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/frankpatel1/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/frankpatel1/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/frankpatel1/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/frankpatel1/LeetCode/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/frankpatel1/LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/frankpatel1/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/frankpatel1/LeetCode/tree/master/0204-count-primes) |
 | [0812-largest-triangle-area](https://github.com/frankpatel1/LeetCode/tree/master/0812-largest-triangle-area) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/frankpatel1/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/frankpatel1/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/frankpatel1/LeetCode/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/frankpatel1/LeetCode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/frankpatel1/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/frankpatel1/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/frankpatel1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/frankpatel1/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/frankpatel1/LeetCode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/frankpatel1/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/frankpatel1/LeetCode/tree/master/0140-word-break-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/frankpatel1/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/frankpatel1/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/frankpatel1/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/frankpatel1/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/frankpatel1/LeetCode/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -264,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/frankpatel1/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/frankpatel1/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/frankpatel1/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/frankpatel1/LeetCode/tree/master/0140-word-break-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -387,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/frankpatel1/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/frankpatel1/LeetCode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
