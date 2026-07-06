@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/frankpatel1/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/frankpatel1/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/frankpatel1/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/frankpatel1/LeetCode/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/frankpatel1/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/frankpatel1/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/frankpatel1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/frankpatel1/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/frankpatel1/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/frankpatel1/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/frankpatel1/LeetCode/tree/master/0127-word-ladder) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/frankpatel1/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/frankpatel1/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/frankpatel1/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/frankpatel1/LeetCode/tree/master/0100-same-tree) |
 | [0126-word-ladder-ii](https://github.com/frankpatel1/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/frankpatel1/LeetCode/tree/master/0127-word-ladder) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/frankpatel1/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/frankpatel1/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/frankpatel1/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
