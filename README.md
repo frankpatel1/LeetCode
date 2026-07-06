@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/frankpatel1/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/frankpatel1/LeetCode/tree/master/0118-pascals-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/frankpatel1/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/frankpatel1/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/frankpatel1/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/frankpatel1/LeetCode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/frankpatel1/LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/frankpatel1/LeetCode/tree/master/0135-candy) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/frankpatel1/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/frankpatel1/LeetCode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frankpatel1/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
