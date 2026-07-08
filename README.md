@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3012-minimize-length-of-array-using-operations](https://github.com/frankpatel1/LeetCode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frankpatel1/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/frankpatel1/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/frankpatel1/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/frankpatel1/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/frankpatel1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/frankpatel1/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/frankpatel1/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/frankpatel1/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frankpatel1/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/frankpatel1/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/frankpatel1/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Trie
 |  |
 | ------- |
