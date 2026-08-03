@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/frankpatel1/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/frankpatel1/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/frankpatel1/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/frankpatel1/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3639-minimum-time-to-activate-string](https://github.com/frankpatel1/LeetCode/tree/master/3639-minimum-time-to-activate-string) |
 ## Depth-First Search
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3012-minimize-length-of-array-using-operations](https://github.com/frankpatel1/LeetCode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/frankpatel1/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/frankpatel1/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/frankpatel1/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3638-maximum-balanced-shipments](https://github.com/frankpatel1/LeetCode/tree/master/3638-maximum-balanced-shipments) |
 ## Heap (Priority Queue)
 |  |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/frankpatel1/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/frankpatel1/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/frankpatel1/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/frankpatel1/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/frankpatel1/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/frankpatel1/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/frankpatel1/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Memoization
 |  |
 | ------- |
@@ -427,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/frankpatel1/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/frankpatel1/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
