@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/frankpatel1/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/frankpatel1/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1406-stone-game-iii](https://github.com/frankpatel1/LeetCode/tree/master/1406-stone-game-iii) |
+| [1622-fancy-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1622-fancy-sequence) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/frankpatel1/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/frankpatel1/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/frankpatel1/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/frankpatel1/LeetCode/tree/master/0204-count-primes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/frankpatel1/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1622-fancy-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1622-fancy-sequence) |
 | [2523-closest-prime-numbers-in-range](https://github.com/frankpatel1/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/frankpatel1/LeetCode/tree/master/3012-minimize-length-of-array-using-operations) |
 ## Geometry
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1622-fancy-sequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/frankpatel1/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/frankpatel1/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -442,4 +445,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/frankpatel1/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1622-fancy-sequence) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/frankpatel1/LeetCode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
